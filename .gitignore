@@ -1,0 +1,4 @@
+target/
+collector-src/target/
+*.swp
+.directory

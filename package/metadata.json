@@ -1,0 +1,1 @@
+{"KPackageStructure": "Plasma/Applet", "KPlugin": {"Authors": [{"Name": "Ahmed"}], "Description": "Live upload/download speeds in the panel", "Icon": "network-wireless", "Id": "com.ahmed.netmon", "Name": "Network Monitor", "Version": "1.0"}, "X-Plasma-API": "declarativeappletscript", "X-Plasma-API-Minimum-Version": "6.0"}
